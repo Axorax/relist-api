@@ -1,0 +1,16 @@
+{
+	"name": "relist-api",
+	"description": "✨ Find the best bots on Revolt!",
+	"version": "1.0.0",
+	"main": "index.js",
+	"keywords": [
+		"relist"
+	],
+	"author": "Axorax",
+	"license": "MIT",
+	"dependencies": {
+		"express": "^4.19.2",
+		"express-rate-limit": "^7.3.1",
+		"revolt.js": "^7.0.2"
+	}
+}
